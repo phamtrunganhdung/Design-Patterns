@@ -1,0 +1,6 @@
+E:\TaiLieu\Design Patterns\FactoryMethod\DeliveryFactory\DeliveryFactory\bin\Debug\DeliveryFactory.exe.config
+E:\TaiLieu\Design Patterns\FactoryMethod\DeliveryFactory\DeliveryFactory\bin\Debug\DeliveryFactory.exe
+E:\TaiLieu\Design Patterns\FactoryMethod\DeliveryFactory\DeliveryFactory\bin\Debug\DeliveryFactory.pdb
+E:\TaiLieu\Design Patterns\FactoryMethod\DeliveryFactory\DeliveryFactory\obj\Debug\DeliveryFactory.csprojResolveAssemblyReference.cache
+E:\TaiLieu\Design Patterns\FactoryMethod\DeliveryFactory\DeliveryFactory\obj\Debug\DeliveryFactory.exe
+E:\TaiLieu\Design Patterns\FactoryMethod\DeliveryFactory\DeliveryFactory\obj\Debug\DeliveryFactory.pdb
