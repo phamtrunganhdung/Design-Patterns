@@ -1,6 +1,0 @@
-E:\TaiLieu\Design Patterns\FactoryMethod\AnimalFactory\AnimalFactory\bin\Debug\AnimalFactory.exe.config
-E:\TaiLieu\Design Patterns\FactoryMethod\AnimalFactory\AnimalFactory\bin\Debug\AnimalFactory.exe
-E:\TaiLieu\Design Patterns\FactoryMethod\AnimalFactory\AnimalFactory\bin\Debug\AnimalFactory.pdb
-E:\TaiLieu\Design Patterns\FactoryMethod\AnimalFactory\AnimalFactory\obj\Debug\AnimalFactory.exe
-E:\TaiLieu\Design Patterns\FactoryMethod\AnimalFactory\AnimalFactory\obj\Debug\AnimalFactory.pdb
-E:\TaiLieu\Design Patterns\FactoryMethod\AnimalFactory\AnimalFactory\obj\Debug\AnimalFactory.csprojResolveAssemblyReference.cache
