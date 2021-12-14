@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exInterator", "exInterator\exInterator.csproj", "{9460727C-C104-43DC-9CE2-F6BB16C9C046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9460727C-C104-43DC-9CE2-F6BB16C9C046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9460727C-C104-43DC-9CE2-F6BB16C9C046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9460727C-C104-43DC-9CE2-F6BB16C9C046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9460727C-C104-43DC-9CE2-F6BB16C9C046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {404109E6-C0EC-4463-98A0-FFC8630519C0}
+	EndGlobalSection
+EndGlobal
